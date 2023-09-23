@@ -1,6 +1,10 @@
 # Manideep Reddy
 
-[![Email](https://img.icons8.com/fluent/32/000000/gmail.png)](mailto:manideepreddy966@gmail.com) [![Portfolio](https://img.icons8.com/fluent/32/000000/domain.png)](https://manideepreddym.github.io/portfolio-manideep/) [![LinkedIn](https://img.icons8.com/fluent/32/000000/linkedin.png)](https://www.linkedin.com/in/manideep-reddy/) [![GitHub](https://img.icons8.com/fluent/32/000000/github.png)](https://github.com/manideepreddym/)
+[<img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](mailto:manideepreddy966@gmail.com) 
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://manideepreddym.github.io/portfolio-manideep/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/manideep-reddy/)
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />](https://github.com/manideepreddym/)
+
 
 ## Experience
 

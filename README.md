@@ -1,6 +1,6 @@
 # Manideep Reddy
 
-📧 [Email](mailto:manideepreddy966@gmail.com) | 🌐 [Portfolio](https://manideepreddym.github.io/portfolio-manideep/) | 🔗 [LinkedIn](https://www.linkedin.com/in/manideep-reddy/) | 📁 [GitHub](https://github.com/manideepreddym/)
+[![Email](https://img.icons8.com/fluent/32/000000/gmail.png)](mailto:manideepreddy966@gmail.com) [![Portfolio](https://img.icons8.com/fluent/32/000000/domain.png)](https://manideepreddym.github.io/portfolio-manideep/) [![LinkedIn](https://img.icons8.com/fluent/32/000000/linkedin.png)](https://www.linkedin.com/in/manideep-reddy/) [![GitHub](https://img.icons8.com/fluent/32/000000/github.png)](https://github.com/manideepreddym/)
 
 ## Experience
 

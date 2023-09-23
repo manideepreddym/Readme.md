@@ -1,58 +1,48 @@
-# Readme.md
+# Manideep Reddy
 
-## Hey there..! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="34px" alt="hi">
+📧 [Email](mailto:manideepreddy966@gmail.com) | 🌐 [Portfolio](https://manideepreddym.github.io/portfolio-manideep/) | 🔗 [LinkedIn](https://www.linkedin.com/in/manideep-reddy/) | 📁 [GitHub](https://github.com/manideepreddym/)
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=manideepreddym alt=Manideep Reddy> </p>
+## Experience
 
+### Cognizant, Data Analyst
+_Mar 2022 – Aug 2022_
+- Collaborated with the analytics team to enhance JP Morgan's customer service by predicting potential complaints from transactional data.
+- Employed SQL for data extraction and preprocessing and implemented ML algorithms using TensorFlow and Scikit-learn, achieving 85% prediction accuracy.
+- Optimized model efficiency by integrating TensorFlow with other frameworks, accelerating real-time complaint flagging.
 
+### The Sparks Foundation, Data Science Intern
+_Apr 2021 – Sep 2021_
+- Contributed to a team predicting students' academic outcomes based on e-learning behaviors.
+- Designed and applied ML models, notably Decision Trees and Random Forests, achieving 75% accuracy using Scikit-learn.
+- Coordinated with team members using Git for version control, task assignments, and code modifications.
 
-<!--
-**Manideep Reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Smart bridge Services with IBM, Artificial Intelligence Intern
+_Jul 2019 – Aug 2019_
+- Engineered an early detection system, modeling past transactions with 97% accuracy.
+- Analyzed a dataset of 284,807 transactions with 28 primary components.
+- Leveraged XGBoost Classifier for fraud detection and streamlined data using PCA.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Optimization of agricultural production
+_[GitHub link](crop_prediction_github)_
+- Earned the top rank for the best Innovative project among 20+ major capstone projects.
+- Crafted a crop recommendation system using K-means clustering, analyzing 5,000+ data points with 93% accuracy.
 
-<br>
+### Ultrasonic Nerve Segmentation
+- Aimed to enhance diagnostic accuracy by segmenting nerve structures from ultrasound images.
+- Utilized Python, TensorFlow, and OpenCV to process images, achieving a Dice Coefficient of 0.92%.
 
-<code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+## Education
 
-<br>
-<br>
+### University of Pacific
+_Anticipated 2024_
+- M.S. Data Science
+- GPA: 3.29
+- Selected Coursework: Machine Learning, Data Engineering, Linear Algebra, Data Analytic Computing, NoSQL Databases, Probability.
 
-![](https://github-readme-stats.vercel.app/api?username=samshanmukh&show_icons=true&hide_border=true)
+## Technologies
 
-<br>
-<br>
-
-**💬 Ask me about anything, I'll be happy to help!**
-
-**💬 My inbox is always open, Contact me**
-
-<br> 
-
-<a href="https://www.linkedin.com/in/manideep-reddy/" target="_blank">
-    <img align="left" alt="Manideep Reddy | Linkedin" width="24px"  />
-</a>
-
-<a href="mailto:manideepreddy966@gmail.com" target="_blank">
-    <img align="left" alt="Manideep Reddy| Gmail" width="26px"  />
-</a>
-
-<a href="https://twitter.com/samshanmukh" target="_blank">
-    <img align="left" alt="Shanmukh Sain | Twitter" width="26px" src="https://github.com/samshanmukh/samshanmukh/blob/master/Twitter.svg" />
-</a>
-
-
-
-<br><br>
-
+- **Languages**: Python (sci-kit learn, pandas, NumPy, matplotlib), R (ggplot 2)
+- **Other**: SQL, MySQL, Power BI, AWS, seaborn, TensorFlow, Keras, Pyspark, GCP
+- **Certifications**: IBM Data Science Specialization, Machine Learning by Stanford, Data Engineering GCP Specialization
